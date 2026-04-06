@@ -77,17 +77,17 @@ Generated Visualizations:
 - Matplotlib
 - HackerNews API
 
-##Install dependencies:
+## Install dependencies:
 
 pip install pandas numpy matplotlib
 
-##Run the pipeline:
+## Run the pipeline:
 
 python task1_data_collection.py
 python task2_data_processing.py
 python task3_analysis.py
 python task4_visualization.py
 
-##Output
+## Output
 
 The generated visualizations will be saved inside the outputs/ folder.

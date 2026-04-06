@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import os
 
 def create_visuals():
-    # --- SETUP (2 Marks) ---
     if not os.path.exists('outputs'):
         os.makedirs('outputs')
     
@@ -15,7 +14,7 @@ def create_visuals():
         print("Error: trends_analysed.csv missing!")
         return
 
-    # --- CHART 1: TOP 10 STORIES (6 Marks) ---
+    # --- CHART 1: TOP 10 STORIES ---
     plt.figure(figsize=(10, 6))
     # We sort by score and take the top 10
     top_10 = df.sort_values('score', ascending=False).head(10)
@@ -30,7 +29,7 @@ def create_visuals():
     plt.savefig('outputs/chart1_top_stories.png')
     plt.close()
 
-    # --- CHART 2: STORIES PER CATEGORY (6 Marks) ---
+    # --- CHART 2: STORIES PER CATEGORY---
     plt.figure(figsize=(8, 6))
     cat_counts = df['category'].value_counts()
     # Using a different color for each bar
@@ -42,7 +41,7 @@ def create_visuals():
     plt.savefig('outputs/chart2_categories.png')
     plt.close()
 
-    # --- CHART 3: SCORE VS COMMENTS (6 Marks) ---
+    # --- CHART 3: SCORE VS COMMENTS ---
     plt.figure(figsize=(8, 6))
     # Colour dots based on the 'is_popular' column from Task 3
     for popular_status, color in [(True, 'orange'), (False, 'gray')]:
@@ -58,7 +57,7 @@ def create_visuals():
     plt.savefig('outputs/chart3_scatter.png')
     plt.close()
 
-    # --- BONUS: DASHBOARD (3 Marks) ---
+    # --- BONUS: DASHBOARD ---
     # Combine everything into one figure
     fig, axs = plt.subplots(2, 2, figsize=(15, 12))
     fig.suptitle('TrendPulse Data Dashboard', fontsize=20)

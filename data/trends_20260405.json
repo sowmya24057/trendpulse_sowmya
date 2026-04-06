@@ -1,0 +1,956 @@
+[
+    {
+        "post_id": 47647455,
+        "title": "Talk like caveman",
+        "category": "entertainment",
+        "score": 37,
+        "num_comments": 17,
+        "author": "tosh",
+        "collected_at": "2026-04-05 16:04:47"
+    },
+    {
+        "post_id": 47640728,
+        "title": "Show HN: A game where you build a GPU",
+        "category": "technology",
+        "score": 766,
+        "num_comments": 159,
+        "author": "Jaso1024",
+        "collected_at": "2026-04-05 16:04:51"
+    },
+    {
+        "post_id": 47645432,
+        "title": "Introduction to Computer Music (2009) [pdf]",
+        "category": "technology",
+        "score": 161,
+        "num_comments": 53,
+        "author": "luu",
+        "collected_at": "2026-04-05 16:04:53"
+    },
+    {
+        "post_id": 47644406,
+        "title": "German implementation of eIDAS will require an Apple/Google account to function",
+        "category": "technology",
+        "score": 279,
+        "num_comments": 239,
+        "author": "DyslexicAtheist",
+        "collected_at": "2026-04-05 16:04:55"
+    },
+    {
+        "post_id": 47640875,
+        "title": "LLM Wiki \u2013 example of an \"idea file\"",
+        "category": "technology",
+        "score": 201,
+        "num_comments": 61,
+        "author": "tamnd",
+        "collected_at": "2026-04-05 16:05:02"
+    },
+    {
+        "post_id": 47587089,
+        "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+        "category": "technology",
+        "score": 46,
+        "num_comments": 7,
+        "author": "steeve",
+        "collected_at": "2026-04-05 16:05:10"
+    },
+    {
+        "post_id": 47598835,
+        "title": "Rubysyn: Clarifying Ruby's Syntax and Semantics",
+        "category": "entertainment",
+        "score": 49,
+        "num_comments": 5,
+        "author": "petalmind",
+        "collected_at": "2026-04-05 16:05:16"
+    },
+    {
+        "post_id": 47642569,
+        "title": "How many products does Microsoft have named 'Copilot'?",
+        "category": "technology",
+        "score": 649,
+        "num_comments": 311,
+        "author": "gpi",
+        "collected_at": "2026-04-05 16:05:18"
+    },
+    {
+        "post_id": 47613118,
+        "title": "Show HN: I built a small app for FSI German Course",
+        "category": "technology",
+        "score": 37,
+        "num_comments": 10,
+        "author": "syedmsawaid",
+        "collected_at": "2026-04-05 16:05:19"
+    },
+    {
+        "post_id": 47644864,
+        "title": "AWS engineer reports PostgreSQL perf halved by Linux 7.0, fix may not be easy",
+        "category": "technology",
+        "score": 297,
+        "num_comments": 90,
+        "author": "crcastle",
+        "collected_at": "2026-04-05 16:05:21"
+    },
+    {
+        "post_id": 47645025,
+        "title": "Show HN: Contrapunk \u2013 Real-time counterpoint harmony from guitar input, in Rust",
+        "category": "entertainment",
+        "score": 72,
+        "num_comments": 30,
+        "author": "waveywaves",
+        "collected_at": "2026-04-05 16:05:23"
+    },
+    {
+        "post_id": 47646504,
+        "title": "Show HN: OsintRadar \u2013 Curated directory for osint tools",
+        "category": "entertainment",
+        "score": 10,
+        "num_comments": 1,
+        "author": "lexalizer",
+        "collected_at": "2026-04-05 16:05:25"
+    },
+    {
+        "post_id": 47609117,
+        "title": "Ask HN: Is there any interest in a native Qt/C++ Discord client?",
+        "category": "worldnews",
+        "score": 5,
+        "num_comments": 5,
+        "author": "txtsd",
+        "collected_at": "2026-04-05 16:05:29"
+    },
+    {
+        "post_id": 47639303,
+        "title": "Show HN: I made open source, zero power PCB hackathon badges",
+        "category": "entertainment",
+        "score": 108,
+        "num_comments": 10,
+        "author": "kaipereira",
+        "collected_at": "2026-04-05 16:05:32"
+    },
+    {
+        "post_id": 47639779,
+        "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+        "category": "technology",
+        "score": 159,
+        "num_comments": 79,
+        "author": "jrandolf",
+        "collected_at": "2026-04-05 16:05:38"
+    },
+    {
+        "post_id": 47646363,
+        "title": "Modern Generic SVGA driver for Windows 3.1",
+        "category": "sports",
+        "score": 43,
+        "num_comments": 9,
+        "author": "userbinator",
+        "collected_at": "2026-04-05 16:05:45"
+    },
+    {
+        "post_id": 47639291,
+        "title": "The Indie Internet Index \u2013 submit your favorite sites",
+        "category": "technology",
+        "score": 148,
+        "num_comments": 28,
+        "author": "freshman_dev",
+        "collected_at": "2026-04-05 16:05:48"
+    },
+    {
+        "post_id": 47642601,
+        "title": "Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown",
+        "category": "technology",
+        "score": 86,
+        "num_comments": 13,
+        "author": "laszlokorte",
+        "collected_at": "2026-04-05 16:05:58"
+    },
+    {
+        "post_id": 47604887,
+        "title": "Electrical transformer manufacturing is throttling the electrified future",
+        "category": "worldnews",
+        "score": 88,
+        "num_comments": 79,
+        "author": "toomuchtodo",
+        "collected_at": "2026-04-05 16:06:01"
+    },
+    {
+        "post_id": 47640380,
+        "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+        "category": "technology",
+        "score": 436,
+        "num_comments": 194,
+        "author": "naves",
+        "collected_at": "2026-04-05 16:06:04"
+    },
+    {
+        "post_id": 47610593,
+        "title": "Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559)",
+        "category": "technology",
+        "score": 4,
+        "num_comments": 1,
+        "author": "benbreen",
+        "collected_at": "2026-04-05 16:06:08"
+    },
+    {
+        "post_id": 47644566,
+        "title": "Advice to young people, the lies I tell myself (2024)",
+        "category": "worldnews",
+        "score": 112,
+        "num_comments": 31,
+        "author": "mooreds",
+        "collected_at": "2026-04-05 16:06:10"
+    },
+    {
+        "post_id": 47639567,
+        "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
+        "category": "technology",
+        "score": 154,
+        "num_comments": 6,
+        "author": "teamchong",
+        "collected_at": "2026-04-05 16:06:12"
+    },
+    {
+        "post_id": 47637757,
+        "title": "Embarrassingly simple self-distillation improves code generation",
+        "category": "technology",
+        "score": 600,
+        "num_comments": 181,
+        "author": "Anon84",
+        "collected_at": "2026-04-05 16:06:15"
+    },
+    {
+        "post_id": 47638075,
+        "title": "The CMS is dead, long live the CMS",
+        "category": "worldnews",
+        "score": 142,
+        "num_comments": 88,
+        "author": "taubek",
+        "collected_at": "2026-04-05 16:06:17"
+    },
+    {
+        "post_id": 47606244,
+        "title": "Training mRNA Language Models Across 25 Species for $165",
+        "category": "technology",
+        "score": 138,
+        "num_comments": 32,
+        "author": "maziyar",
+        "collected_at": "2026-04-05 16:06:23"
+    },
+    {
+        "post_id": 47633396,
+        "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "category": "technology",
+        "score": 1050,
+        "num_comments": 797,
+        "author": "firloop",
+        "collected_at": "2026-04-05 16:06:24"
+    },
+    {
+        "post_id": 47631118,
+        "title": "Artemis II crew take \u201cspectacular\u201d image of Earth",
+        "category": "science",
+        "score": 1038,
+        "num_comments": 356,
+        "author": "andsoitis",
+        "collected_at": "2026-04-05 16:06:26"
+    },
+    {
+        "post_id": 47611993,
+        "title": "VR Realizes the Cyberspace Metaphor",
+        "category": "worldnews",
+        "score": 14,
+        "num_comments": 8,
+        "author": "dryadin",
+        "collected_at": "2026-04-05 16:06:28"
+    },
+    {
+        "post_id": 47641141,
+        "title": "IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]",
+        "category": "technology",
+        "score": 47,
+        "num_comments": 12,
+        "author": "hggh",
+        "collected_at": "2026-04-05 16:06:29"
+    },
+    {
+        "post_id": 47644808,
+        "title": "The machines are fine. I'm worried about us",
+        "category": "worldnews",
+        "score": 22,
+        "num_comments": 2,
+        "author": "Plasmoid",
+        "collected_at": "2026-04-05 16:06:31"
+    },
+    {
+        "post_id": 47644726,
+        "title": "Power-washing, pool-cleaning and mowing \u2013 playing games about mundane jobs",
+        "category": "sports",
+        "score": 12,
+        "num_comments": 1,
+        "author": "andsoitis",
+        "collected_at": "2026-04-05 16:06:32"
+    },
+    {
+        "post_id": 47644667,
+        "title": "Nvim-treesitter (13K+ Stars) is Archived",
+        "category": "entertainment",
+        "score": 128,
+        "num_comments": 47,
+        "author": "RohanAdwankar",
+        "collected_at": "2026-04-05 16:06:34"
+    },
+    {
+        "post_id": 47638270,
+        "title": "Mbodi AI (YC P25) Is Hiring",
+        "category": "technology",
+        "score": 1,
+        "num_comments": 0,
+        "author": "chitianhao",
+        "collected_at": "2026-04-05 16:06:36"
+    },
+    {
+        "post_id": 47645235,
+        "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
+        "category": "technology",
+        "score": 52,
+        "num_comments": 13,
+        "author": "ingenika",
+        "collected_at": "2026-04-05 16:06:38"
+    },
+    {
+        "post_id": 47636435,
+        "title": "Emotion concepts and their function in a large language model",
+        "category": "worldnews",
+        "score": 174,
+        "num_comments": 169,
+        "author": "dnw",
+        "collected_at": "2026-04-05 16:06:39"
+    },
+    {
+        "post_id": 47639524,
+        "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+        "category": "worldnews",
+        "score": 796,
+        "num_comments": 515,
+        "author": "macleginn",
+        "collected_at": "2026-04-05 16:06:43"
+    },
+    {
+        "post_id": 47639727,
+        "title": "When legal sports betting surges, so do Americans' financial problems",
+        "category": "sports",
+        "score": 198,
+        "num_comments": 131,
+        "author": "pseudolus",
+        "collected_at": "2026-04-05 16:06:44"
+    },
+    {
+        "post_id": 47633855,
+        "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+        "category": "technology",
+        "score": 396,
+        "num_comments": 246,
+        "author": "eichin",
+        "collected_at": "2026-04-05 16:06:46"
+    },
+    {
+        "post_id": 47610590,
+        "title": "The East India Company in Japan",
+        "category": "worldnews",
+        "score": 10,
+        "num_comments": 2,
+        "author": "Thevet",
+        "collected_at": "2026-04-05 16:06:50"
+    },
+    {
+        "post_id": 47645817,
+        "title": "How Pope Leo is pushing back on divine justification of war",
+        "category": "worldnews",
+        "score": 31,
+        "num_comments": 17,
+        "author": "1659447091",
+        "collected_at": "2026-04-05 16:06:53"
+    },
+    {
+        "post_id": 47616361,
+        "title": "Google releases Gemma 4 open models",
+        "category": "technology",
+        "score": 1775,
+        "num_comments": 462,
+        "author": "jeffmcjunkin",
+        "collected_at": "2026-04-05 16:06:57"
+    },
+    {
+        "post_id": 47641464,
+        "title": "Scientists observe an immune signaling complex forming inside cells",
+        "category": "science",
+        "score": 109,
+        "num_comments": 7,
+        "author": "ohjeez",
+        "collected_at": "2026-04-05 16:07:00"
+    },
+    {
+        "post_id": 47641615,
+        "title": "Sopwith \u2013 1984 Game (2000)",
+        "category": "sports",
+        "score": 93,
+        "num_comments": 41,
+        "author": "elvis70",
+        "collected_at": "2026-04-05 16:07:02"
+    },
+    {
+        "post_id": 47645468,
+        "title": "Writing Lisp is AI resistant and I'm sad",
+        "category": "technology",
+        "score": 66,
+        "num_comments": 69,
+        "author": "djha-skin",
+        "collected_at": "2026-04-05 16:07:04"
+    },
+    {
+        "post_id": 47604698,
+        "title": "Functional programming accelerates agentic feature development",
+        "category": "technology",
+        "score": 46,
+        "num_comments": 21,
+        "author": "cyrusradfar",
+        "collected_at": "2026-04-05 16:07:06"
+    },
+    {
+        "post_id": 47640775,
+        "title": "Why the most valuable things you know are things you cannot say",
+        "category": "worldnews",
+        "score": 149,
+        "num_comments": 50,
+        "author": "nr378",
+        "collected_at": "2026-04-05 16:07:14"
+    },
+    {
+        "post_id": 47644934,
+        "title": "Delve claiming that whistleblower was part of a \"targeted cyberattack\"",
+        "category": "technology",
+        "score": 5,
+        "num_comments": 1,
+        "author": "rrvsh",
+        "collected_at": "2026-04-05 16:07:16"
+    },
+    {
+        "post_id": 47625952,
+        "title": "Show HN: I built a frontpage for personal blogs",
+        "category": "entertainment",
+        "score": 757,
+        "num_comments": 190,
+        "author": "ramkarthikk",
+        "collected_at": "2026-04-05 16:07:24"
+    },
+    {
+        "post_id": 47597366,
+        "title": "The most-disliked people in the publishing industry",
+        "category": "worldnews",
+        "score": 92,
+        "num_comments": 64,
+        "author": "Caiero",
+        "collected_at": "2026-04-05 16:07:27"
+    },
+    {
+        "post_id": 47601194,
+        "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
+        "category": "worldnews",
+        "score": 181,
+        "num_comments": 63,
+        "author": "dbreunig",
+        "collected_at": "2026-04-05 16:07:33"
+    },
+    {
+        "post_id": 47633116,
+        "title": "The house is a work of art: Frank Lloyd Wright",
+        "category": "worldnews",
+        "score": 111,
+        "num_comments": 63,
+        "author": "midnightfish",
+        "collected_at": "2026-04-05 16:07:35"
+    },
+    {
+        "post_id": 47647065,
+        "title": "AGI won't automate most jobs\u2013because they're not worth the trouble",
+        "category": "worldnews",
+        "score": 4,
+        "num_comments": 0,
+        "author": "Sandman",
+        "collected_at": "2026-04-05 16:07:38"
+    },
+    {
+        "post_id": 47633157,
+        "title": "Fake Fans",
+        "category": "sports",
+        "score": 152,
+        "num_comments": 60,
+        "author": "performative",
+        "collected_at": "2026-04-05 16:07:39"
+    },
+    {
+        "post_id": 47643656,
+        "title": "The Oxygen Apocalpyse: how bacteria used a spin diode to wipe out ancient life",
+        "category": "worldnews",
+        "score": 21,
+        "num_comments": 4,
+        "author": "KR_compchem",
+        "collected_at": "2026-04-05 16:07:42"
+    },
+    {
+        "post_id": 47639976,
+        "title": "German men 18-45 need military permit for extended stays abroad",
+        "category": "entertainment",
+        "score": 372,
+        "num_comments": 654,
+        "author": "L_226",
+        "collected_at": "2026-04-05 16:07:47"
+    },
+    {
+        "post_id": 47642275,
+        "title": "Netflix must refund customers for years of price hikes, Italian court rules",
+        "category": "worldnews",
+        "score": 58,
+        "num_comments": 5,
+        "author": "xbmcuser",
+        "collected_at": "2026-04-05 16:07:49"
+    },
+    {
+        "post_id": 47624804,
+        "title": "Category Theory Illustrated \u2013 Types",
+        "category": "worldnews",
+        "score": 108,
+        "num_comments": 19,
+        "author": "boris_m",
+        "collected_at": "2026-04-05 16:07:56"
+    },
+    {
+        "post_id": 47633947,
+        "title": "The FAA\u2019s flight restriction for drones is an attempt to criminalize filming ICE",
+        "category": "worldnews",
+        "score": 533,
+        "num_comments": 180,
+        "author": "detaro",
+        "collected_at": "2026-04-05 16:08:02"
+    },
+    {
+        "post_id": 47601992,
+        "title": "The smallest ELF executable (2021)",
+        "category": "worldnews",
+        "score": 37,
+        "num_comments": 2,
+        "author": "michelangelo",
+        "collected_at": "2026-04-05 16:08:04"
+    },
+    {
+        "post_id": 47644790,
+        "title": "Playing Card Deck Design Tips",
+        "category": "sports",
+        "score": 3,
+        "num_comments": 1,
+        "author": "Timothee",
+        "collected_at": "2026-04-05 16:08:05"
+    },
+    {
+        "post_id": 47640431,
+        "title": "What life looks like on the most remote inhabited island",
+        "category": "worldnews",
+        "score": 89,
+        "num_comments": 23,
+        "author": "brightbeige",
+        "collected_at": "2026-04-05 16:08:07"
+    },
+    {
+        "post_id": 47645180,
+        "title": "The secrets of black holes and the Higgs mass could be hidden in a 7D geometry",
+        "category": "worldnews",
+        "score": 16,
+        "num_comments": 0,
+        "author": "teleforce",
+        "collected_at": "2026-04-05 16:08:10"
+    },
+    {
+        "post_id": 47603657,
+        "title": "Artemis II Launch Day Updates",
+        "category": "entertainment",
+        "score": 1093,
+        "num_comments": 951,
+        "author": "apitman",
+        "collected_at": "2026-04-05 16:08:14"
+    },
+    {
+        "post_id": 47633676,
+        "title": "Extra usage credit for Pro, Max, and Team plans",
+        "category": "sports",
+        "score": 64,
+        "num_comments": 60,
+        "author": "angst",
+        "collected_at": "2026-04-05 16:08:18"
+    },
+    {
+        "post_id": 47629485,
+        "title": "A case study in testing with 100+ Claude agents in parallel",
+        "category": "science",
+        "score": 51,
+        "num_comments": 46,
+        "author": "thejash",
+        "collected_at": "2026-04-05 16:08:21"
+    },
+    {
+        "post_id": 47641277,
+        "title": "A new gene therapy is giving people born deaf the chance to hear",
+        "category": "worldnews",
+        "score": 49,
+        "num_comments": 5,
+        "author": "bilsbie",
+        "collected_at": "2026-04-05 16:08:23"
+    },
+    {
+        "post_id": 47637010,
+        "title": "The Last Quiet Thing",
+        "category": "worldnews",
+        "score": 18,
+        "num_comments": 1,
+        "author": "coinfused",
+        "collected_at": "2026-04-05 16:08:27"
+    },
+    {
+        "post_id": 47646553,
+        "title": "The SimCity Planning Commission Handbook (2024)",
+        "category": "worldnews",
+        "score": 4,
+        "num_comments": 0,
+        "author": "Tomte",
+        "collected_at": "2026-04-05 16:08:29"
+    },
+    {
+        "post_id": 47626462,
+        "title": "Big-Endian Testing with QEMU",
+        "category": "science",
+        "score": 113,
+        "num_comments": 127,
+        "author": "jandeboevrie",
+        "collected_at": "2026-04-05 16:08:49"
+    },
+    {
+        "post_id": 47638532,
+        "title": "Show HN: Ownscribe \u2013 local meeting transcription, summarization and search",
+        "category": "entertainment",
+        "score": 11,
+        "num_comments": 0,
+        "author": "paberr",
+        "collected_at": "2026-04-05 16:09:04"
+    },
+    {
+        "post_id": 47645240,
+        "title": "SpaceX Pushes Back Crucial Starship Test Launch",
+        "category": "science",
+        "score": 11,
+        "num_comments": 5,
+        "author": "bookmtn",
+        "collected_at": "2026-04-05 16:09:18"
+    },
+    {
+        "post_id": 47642933,
+        "title": "Student disciplined for creating MSU class search tool, Spartan Scheduler",
+        "category": "entertainment",
+        "score": 4,
+        "num_comments": 3,
+        "author": "rmason",
+        "collected_at": "2026-04-05 16:09:24"
+    },
+    {
+        "post_id": 47630109,
+        "title": "Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M",
+        "category": "entertainment",
+        "score": 187,
+        "num_comments": 71,
+        "author": "MaximilianEmel",
+        "collected_at": "2026-04-05 16:09:30"
+    },
+    {
+        "post_id": 47640770,
+        "title": "Show HN: DocMason \u2013 Agent Knowledge Base for local complex office files",
+        "category": "entertainment",
+        "score": 7,
+        "num_comments": 0,
+        "author": "Jet_Xu",
+        "collected_at": "2026-04-05 16:09:31"
+    },
+    {
+        "post_id": 47609356,
+        "title": "Artemis II's toilet is a moon mission milestone",
+        "category": "entertainment",
+        "score": 325,
+        "num_comments": 170,
+        "author": "1659447091",
+        "collected_at": "2026-04-05 16:09:44"
+    },
+    {
+        "post_id": 47632692,
+        "title": "Show HN: Mtproto.zig \u2013 High-performance Telegram proxy with DPI evasion",
+        "category": "entertainment",
+        "score": 21,
+        "num_comments": 14,
+        "author": "slp3r",
+        "collected_at": "2026-04-05 16:10:18"
+    },
+    {
+        "post_id": 47606560,
+        "title": "Show HN: Dull \u2013 Instagram Without Reels, YouTube Without Shorts (iOS)",
+        "category": "entertainment",
+        "score": 152,
+        "num_comments": 117,
+        "author": "kasparnoor",
+        "collected_at": "2026-04-05 16:10:25"
+    },
+    {
+        "post_id": 47631030,
+        "title": "Show HN: Ismcpdead.com \u2013 Live dashboard tracking MCP adoption and sentiment",
+        "category": "entertainment",
+        "score": 35,
+        "num_comments": 23,
+        "author": "sagirodin",
+        "collected_at": "2026-04-05 16:10:34"
+    },
+    {
+        "post_id": 47641164,
+        "title": "Polymarket apologizes for allowing wagers on fate of U.S. pilots downed in Iran",
+        "category": "sports",
+        "score": 29,
+        "num_comments": 23,
+        "author": "ceejayoz",
+        "collected_at": "2026-04-05 16:10:37"
+    },
+    {
+        "post_id": 47621438,
+        "title": "Show HN: Made a little Artemis II tracker",
+        "category": "entertainment",
+        "score": 149,
+        "num_comments": 56,
+        "author": "codingmoh",
+        "collected_at": "2026-04-05 16:10:39"
+    },
+    {
+        "post_id": 47615449,
+        "title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps",
+        "category": "entertainment",
+        "score": 373,
+        "num_comments": 152,
+        "author": "speckx",
+        "collected_at": "2026-04-05 16:10:43"
+    },
+    {
+        "post_id": 47638005,
+        "title": "Idiomatic Koru Kernels Match Hand-Specialized C",
+        "category": "sports",
+        "score": 4,
+        "num_comments": 0,
+        "author": "nemoniac",
+        "collected_at": "2026-04-05 16:10:57"
+    },
+    {
+        "post_id": 47604155,
+        "title": "SpaceX files to go public",
+        "category": "science",
+        "score": 397,
+        "num_comments": 572,
+        "author": "nutjob2",
+        "collected_at": "2026-04-05 16:11:03"
+    },
+    {
+        "post_id": 47592068,
+        "title": "Why Inventing Color TV Was So Difficult [video]",
+        "category": "entertainment",
+        "score": 42,
+        "num_comments": 12,
+        "author": "DamnInteresting",
+        "collected_at": "2026-04-05 16:11:08"
+    },
+    {
+        "post_id": 47638498,
+        "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+        "category": "sports",
+        "score": 4,
+        "num_comments": 2,
+        "author": "fsloth",
+        "collected_at": "2026-04-05 16:11:36"
+    },
+    {
+        "post_id": 47612277,
+        "title": "Almighty Lisp: Lisp and Emacs Essentials Book",
+        "category": "entertainment",
+        "score": 75,
+        "num_comments": 4,
+        "author": "nemoniac",
+        "collected_at": "2026-04-05 16:11:48"
+    },
+    {
+        "post_id": 47631648,
+        "title": "Automatic Textbook Formalization",
+        "category": "entertainment",
+        "score": 43,
+        "num_comments": 17,
+        "author": "tzury",
+        "collected_at": "2026-04-05 16:11:50"
+    },
+    {
+        "post_id": 47589856,
+        "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+        "category": "entertainment",
+        "score": 202,
+        "num_comments": 56,
+        "author": "tjgreen",
+        "collected_at": "2026-04-05 16:12:03"
+    },
+    {
+        "post_id": 47612321,
+        "title": "Show HN: I built a DNS resolver from scratch in Rust \u2013 no DNS libraries",
+        "category": "entertainment",
+        "score": 113,
+        "num_comments": 65,
+        "author": "rdme",
+        "collected_at": "2026-04-05 16:12:10"
+    },
+    {
+        "post_id": 47615844,
+        "title": "Show HN: A P2P messenger with dual network modes (Fast and Tor)",
+        "category": "entertainment",
+        "score": 39,
+        "num_comments": 22,
+        "author": "Realman78",
+        "collected_at": "2026-04-05 16:12:29"
+    },
+    {
+        "post_id": 47588349,
+        "title": "GitHub Monaspace Case Study",
+        "category": "science",
+        "score": 146,
+        "num_comments": 50,
+        "author": "homebrewer",
+        "collected_at": "2026-04-05 16:13:42"
+    },
+    {
+        "post_id": 47624270,
+        "title": "Q148637: Windows 95/98 Overwrites Boot-Sector Field on Floppy Disks (2001)",
+        "category": "sports",
+        "score": 10,
+        "num_comments": 3,
+        "author": "TMWNN",
+        "collected_at": "2026-04-05 16:13:59"
+    },
+    {
+        "post_id": 47607394,
+        "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+        "category": "sports",
+        "score": 40,
+        "num_comments": 6,
+        "author": "ruevs",
+        "collected_at": "2026-04-05 16:14:10"
+    },
+    {
+        "post_id": 47613272,
+        "title": "Tracing Goroutines in Realtime with eBPF",
+        "category": "sports",
+        "score": 17,
+        "num_comments": 0,
+        "author": "darccio",
+        "collected_at": "2026-04-05 16:14:38"
+    },
+    {
+        "post_id": 47636233,
+        "title": "Uber engineer alleges hostile 'boys club' culture, firing after cancer leave",
+        "category": "sports",
+        "score": 21,
+        "num_comments": 1,
+        "author": "nickvec",
+        "collected_at": "2026-04-05 16:15:05"
+    },
+    {
+        "post_id": 47607468,
+        "title": "Tracing goroutines in realtime with eBPF",
+        "category": "sports",
+        "score": 23,
+        "num_comments": 3,
+        "author": "sazak",
+        "collected_at": "2026-04-05 16:15:14"
+    },
+    {
+        "post_id": 47629385,
+        "title": "Artemis II Looking Back at Earth",
+        "category": "science",
+        "score": 24,
+        "num_comments": 3,
+        "author": "DarmokJalad1701",
+        "collected_at": "2026-04-05 16:16:01"
+    },
+    {
+        "post_id": 47617852,
+        "title": "Show HN: Adentris (YC P25) \u2013 Find mistakes in your medical records",
+        "category": "science",
+        "score": 15,
+        "num_comments": 3,
+        "author": "digitaltzar",
+        "collected_at": "2026-04-05 16:16:30"
+    },
+    {
+        "post_id": 47624879,
+        "title": "Switzerland hosts 'CERN of semiconductor research'",
+        "category": "science",
+        "score": 34,
+        "num_comments": 6,
+        "author": "teleforce",
+        "collected_at": "2026-04-05 16:16:42"
+    },
+    {
+        "post_id": 47642779,
+        "title": "Big Banks Seeking a Piece of SpaceX's IPO Must Subscribe to Elon Musk's Grok",
+        "category": "science",
+        "score": 11,
+        "num_comments": 0,
+        "author": "codydh",
+        "collected_at": "2026-04-05 16:18:45"
+    },
+    {
+        "post_id": 47609883,
+        "title": "Salomi, a research repo on extreme low-bit transformer quantization",
+        "category": "science",
+        "score": 12,
+        "num_comments": 4,
+        "author": "Edward9055",
+        "collected_at": "2026-04-05 16:18:51"
+    },
+    {
+        "post_id": 47621557,
+        "title": "Show HN: SkiFlee (an HTML5 game)",
+        "category": "sports",
+        "score": 8,
+        "num_comments": 9,
+        "author": "BSTRhino",
+        "collected_at": "2026-04-05 16:19:03"
+    },
+    {
+        "post_id": 47621304,
+        "title": "Brazil Joins Elite Club of Advanced Fighter Producers: First Home-Built Gripen E",
+        "category": "sports",
+        "score": 7,
+        "num_comments": 0,
+        "author": "teleforce",
+        "collected_at": "2026-04-05 16:19:15"
+    },
+    {
+        "post_id": 47609725,
+        "title": "Show HN: NASA Artemis II Mission Timeline Tracker",
+        "category": "science",
+        "score": 93,
+        "num_comments": 17,
+        "author": "AustinDev",
+        "collected_at": "2026-04-05 16:19:38"
+    },
+    {
+        "post_id": 47620867,
+        "title": "Proton Workspace: An encrypted suite for team collaboration",
+        "category": "sports",
+        "score": 26,
+        "num_comments": 4,
+        "author": "teekert",
+        "collected_at": "2026-04-05 16:20:41"
+    }
+]

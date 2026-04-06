@@ -37,8 +37,6 @@ trendpulse_sowmya/
 ├── task4_visualization.py
 
 
----
-
 ## Tasks
 
 ### Task 1 — Data Collection
